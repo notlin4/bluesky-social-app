@@ -2511,7 +2511,7 @@ msgstr "動態源"
 
 #: src/view/screens/SavedFeeds.tsx:204
 msgid "Feeds are custom algorithms that users build with a little coding expertise. <0/> for more information."
-msgstr "動態源是一種自訂演算法，用戶只需掌握一點開發技巧即可輕鬆構建。詳系資訊請<0/>。"
+msgstr "動態源是一種自訂演算法，用戶只需掌握一點開發技巧即可輕鬆構建。詳細資訊請<0/>。"
 
 #: src/components/FeedCard.tsx:273
 #: src/view/screens/SavedFeeds.tsx:83
