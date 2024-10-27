@@ -5685,7 +5685,7 @@ msgstr "選擇您在動態中翻譯的偏好目標語言。"
 
 #: src/components/dms/ChatEmptyPill.tsx:38
 msgid "Send a neat website!"
-msgstr "傳送一個妙趣的網站！"
+msgstr "傳送一個有趣的網站吧！"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:189
 msgid "Send Confirmation"
