@@ -273,7 +273,7 @@ msgstr "存取個人檔案和其他導覽連結"
 
 #: src/view/screens/Settings/index.tsx:464
 msgid "Accessibility"
-msgstr "無障礙工具"
+msgstr "無障礙設定"
 
 #: src/view/screens/Settings/index.tsx:455
 msgid "Accessibility settings"
@@ -1113,11 +1113,11 @@ msgstr "檢查我的狀態"
 
 #: src/screens/Login/LoginForm.tsx:275
 msgid "Check your email for a login code and enter it here."
-msgstr "在此輸入寄送至您電子郵件地址的驗證碼。"
+msgstr "在此輸入傳送至您電子郵件地址的驗證碼。"
 
 #: src/view/com/modals/DeleteAccount.tsx:231
 msgid "Check your inbox for an email with the confirmation code to enter below:"
-msgstr "在下方輸入寄送至您電子郵件地址的驗證碼："
+msgstr "在下方輸入傳送至您電子郵件地址的驗證碼："
 
 #: src/screens/StarterPack/Wizard/index.tsx:197
 msgid "Choose Feeds"
@@ -1219,7 +1219,7 @@ msgstr "關閉"
 #: src/components/Dialog/index.web.tsx:110
 #: src/components/Dialog/index.web.tsx:256
 msgid "Close active dialog"
-msgstr "關閉目前的對話方塊"
+msgstr "關閉目前的對話框"
 
 #: src/screens/Login/PasswordUpdatedForm.tsx:32
 msgid "Close alert"
@@ -1231,11 +1231,11 @@ msgstr "關閉底欄"
 
 #: src/components/dialogs/GifSelect.tsx:276
 msgid "Close dialog"
-msgstr "關閉對話方塊"
+msgstr "關閉對話框"
 
 #: src/components/dialogs/GifSelect.tsx:169
 msgid "Close GIF dialog"
-msgstr "關閉 GIF 對話方塊"
+msgstr "關閉 GIF 對話框"
 
 #: src/view/com/lightbox/ImageViewing/components/ImageDefaultHeader.tsx:36
 msgid "Close image"
@@ -1252,7 +1252,7 @@ msgstr "關閉導覽頁尾"
 #: src/components/Menu/index.tsx:229
 #: src/components/TagMenu/index.tsx:261
 msgid "Close this dialog"
-msgstr "關閉這個對話方塊"
+msgstr "關閉這個對話框"
 
 #: src/view/shell/index.web.tsx:68
 msgid "Closes bottom navigation bar"
@@ -1785,7 +1785,7 @@ msgstr "要分離這則貼文的引用嗎？"
 
 #: src/components/WhoCanReply.tsx:175
 msgid "Dialog: adjust who can interact with this post"
-msgstr "對話方塊：自訂誰可以參與這則貼文的互動"
+msgstr "對話框：自訂誰可以參與這則貼文的互動"
 
 #: src/view/com/composer/Composer.tsx:368
 msgid "Did you want to say anything?"
@@ -1946,7 +1946,7 @@ msgstr "完成{extraText}"
 
 #: src/components/Dialog/index.tsx:316
 msgid "Double tap to close the dialog"
-msgstr "按兩下關閉對話方塊"
+msgstr "按兩下關閉對話框"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:317
 msgid "Download Bluesky"
@@ -3049,7 +3049,7 @@ msgstr "如果刪除這則貼文，您將無法復原它。"
 
 #: src/view/com/modals/ChangePassword.tsx:149
 msgid "If you want to change your password, we will send you a code to verify that this is your account."
-msgstr "如果您想變更密碼，我們將向您傳送一個驗證碼以確認這是您的帳號。"
+msgstr "如果您想變更密碼，我們將向您傳送一組驗證碼，以確認這是您的帳號。"
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:92
 msgid "If you're trying to change your handle or email, do so before you deactivate."
@@ -3081,7 +3081,7 @@ msgstr "不當訊息或露骨連結"
 
 #: src/screens/Login/SetNewPasswordForm.tsx:121
 msgid "Input code sent to your email for password reset"
-msgstr "輸入傳送到您電子郵件地址的重設碼以重設密碼"
+msgstr "輸入傳送到您電子郵件的重設碼以重設密碼"
 
 #: src/view/com/modals/DeleteAccount.tsx:246
 msgid "Input confirmation code for account deletion"
@@ -3101,7 +3101,7 @@ msgstr "輸入密碼以刪除帳號"
 
 #: src/screens/Login/LoginForm.tsx:270
 msgid "Input the code which has been emailed to you"
-msgstr "輸入寄送至您電子郵件地址的驗證碼"
+msgstr "輸入傳送至您電子郵件地址的驗證碼"
 
 #: src/screens/Login/LoginForm.tsx:200
 msgid "Input the username or email address you used at signup"
@@ -3928,7 +3928,7 @@ msgstr "新貼文"
 
 #: src/components/NewskieDialog.tsx:83
 msgid "New user info dialog"
-msgstr "新用戶資訊對話方塊"
+msgstr "新用戶資訊對話框"
 
 #: src/view/com/modals/CreateOrEditList.tsx:227
 msgid "New User List"
@@ -4312,11 +4312,11 @@ msgstr "開啟 {numItems} 個選項"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:65
 msgid "Opens a dialog to add a content warning to your post"
-msgstr "開啟對話方塊來向您的貼文加入內容警告"
+msgstr "開啟對話框來向您的貼文加入內容警告"
 
 #: src/view/com/composer/threadgate/ThreadgateBtn.tsx:62
 msgid "Opens a dialog to choose who can reply to this thread"
-msgstr "開啟對話方塊來選擇哪些人可以回覆此討論串"
+msgstr "開啟對話框來選擇哪些人可以回覆此討論串"
 
 #: src/view/screens/Settings/index.tsx:456
 msgid "Opens accessibility settings"
@@ -4366,7 +4366,7 @@ msgstr "開始登入您現有的 Bluesky 帳號流程"
 
 #: src/view/com/composer/photos/SelectGifBtn.tsx:36
 msgid "Opens GIF select dialog"
-msgstr "開啟 GIF 選擇對話方塊"
+msgstr "開啟 GIF 選擇對話框"
 
 #: src/view/com/modals/InviteCodes.tsx:173
 msgid "Opens list of invite codes"
@@ -5208,7 +5208,7 @@ msgstr "檢舉對話"
 
 #: src/components/ReportDialog/index.tsx:44
 msgid "Report dialog"
-msgstr "檢舉對話方塊"
+msgstr "檢舉對話框"
 
 #: src/view/screens/ProfileFeed.tsx:354
 #: src/view/screens/ProfileFeed.tsx:356
@@ -5856,7 +5856,7 @@ msgstr "分享連結"
 
 #: src/components/StarterPack/ShareDialog.tsx:88
 msgid "Share link dialog"
-msgstr "分享連結對話方塊"
+msgstr "分享連結對話框"
 
 #: src/components/StarterPack/ShareDialog.tsx:135
 #: src/components/StarterPack/ShareDialog.tsx:146
@@ -6353,7 +6353,7 @@ msgstr "謝謝，您的檢舉已提交。"
 
 #: src/components/intents/VerifyEmailIntentDialog.tsx:82
 msgid "Thanks, you have successfully verified your email address. You can close this dialog."
-msgstr "謝謝，您已成功驗證您的電子郵件地址。您可以關閉此對話方塊。"
+msgstr "謝謝，您已成功驗證您的電子郵件地址。您可以關閉此對話框。"
 
 #: src/view/com/modals/ChangeHandle.tsx:452
 msgid "That contains the following:"
@@ -7190,7 +7190,7 @@ msgstr "驗證電子郵件"
 #: src/components/dialogs/VerifyEmailDialog.tsx:120
 #: src/components/intents/VerifyEmailIntentDialog.tsx:67
 msgid "Verify email dialog"
-msgstr "驗證電子郵件對話方塊"
+msgstr "驗證電子郵件對話框"
 
 #: src/view/screens/Settings/index.tsx:962
 msgid "Verify my email"
