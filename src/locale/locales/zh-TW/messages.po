@@ -1577,7 +1577,7 @@ msgstr "建立帳號"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:292
 msgid "Create an avatar instead"
-msgstr "或是建立一個大頭貼"
+msgstr "或是建立一個大頭貼照"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:173
 msgid "Create another"
