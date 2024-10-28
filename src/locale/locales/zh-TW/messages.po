@@ -5916,7 +5916,7 @@ msgstr "顯示隱藏回覆"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:491
 #: src/view/com/util/forms/PostDropdownBtn.tsx:493
 msgid "Show less like this"
-msgstr "減少顯示這類內容"
+msgstr "減少顯示類似內容"
 
 #: src/screens/List/ListHiddenScreen.tsx:172
 msgid "Show list anyway"
