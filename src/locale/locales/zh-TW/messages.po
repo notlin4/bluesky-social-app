@@ -6739,7 +6739,7 @@ msgstr "這位使用者剛加入。按這裡以瞭解他們的加入時間。"
 
 #: src/view/com/profile/ProfileFollows.tsx:96
 msgid "This user isn't following anyone."
-msgstr "這個用戶未跟隨任何人。"
+msgstr "這個用戶尚未跟隨任何人。"
 
 #: src/components/dialogs/MutedWords.tsx:435
 msgid "This will delete \"{0}\" from your muted words. You can always add it back later."
