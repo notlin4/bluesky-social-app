@@ -3478,7 +3478,7 @@ msgstr "載入中…"
 
 #: src/Navigation.tsx:255
 msgid "Log"
-msgstr "記錄"
+msgstr "記錄檔"
 
 #: src/screens/Deactivated.tsx:214
 #: src/screens/Deactivated.tsx:220
