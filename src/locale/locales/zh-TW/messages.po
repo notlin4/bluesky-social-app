@@ -6690,7 +6690,7 @@ msgstr "這則貼文將從討論串及動態源中被隱藏，這項操作無法
 
 #: src/view/com/composer/Composer.tsx:407
 msgid "This post's author has disabled quote posts."
-msgstr "這則貼文的發布者已停用引用。"
+msgstr "這則貼文的發布者拒絕引用貼文。"
 
 #: src/view/com/profile/ProfileMenu.tsx:350
 msgid "This profile is only visible to logged-in users. It won't be visible to people who aren't logged in."
