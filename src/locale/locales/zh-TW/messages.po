@@ -3045,7 +3045,7 @@ msgstr "如果您刪除這個清單，將無法復原。"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:670
 msgid "If you remove this post, you won't be able to recover it."
-msgstr "如果刪除這則貼文，您將無法復原它。"
+msgstr "如果您刪除這則貼文，將無法復原。"
 
 #: src/view/com/modals/ChangePassword.tsx:149
 msgid "If you want to change your password, we will send you a code to verify that this is your account."
