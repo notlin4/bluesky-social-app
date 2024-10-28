@@ -1189,7 +1189,7 @@ msgstr "按下以拒絕其他人引用這則貼文。"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:305
 msgid "Click to enable quote posts of this post."
-msgstr "按下以啟用這則貼文的引用貼文。"
+msgstr "按下以允許其他人引用這則貼文。"
 
 #: src/components/dms/MessageItem.tsx:240
 msgid "Click to retry failed message"
