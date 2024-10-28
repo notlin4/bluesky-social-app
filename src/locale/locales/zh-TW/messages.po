@@ -125,7 +125,7 @@ msgstr "{0} 人已使用此新手包！"
 
 #: src/view/com/util/UserAvatar.tsx:435
 msgid "{0}'s avatar"
-msgstr "「{0}」的大頭貼"
+msgstr "「{0}」的大頭貼照"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:68
 msgid "{0}'s favorite feeds and people - join me!"
