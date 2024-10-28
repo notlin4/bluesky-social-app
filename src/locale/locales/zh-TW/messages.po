@@ -5877,7 +5877,7 @@ msgstr "分享您喜愛的動態！"
 
 #: src/Navigation.tsx:250
 msgid "Shared Preferences Tester"
-msgstr "分享偏好測試器"
+msgstr "共用偏好測試器"
 
 #: src/view/com/modals/LinkWarning.tsx:92
 msgid "Shares the linked website"
