@@ -7750,7 +7750,7 @@ msgstr "您必須年滿 13 歲才能註冊。"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:307
 msgid "You must be following at least seven other people to generate a starter pack."
-msgstr "您必須跟隨至少 7 人才能建立新手包。"
+msgstr "您必須跟隨至少 7 個人才能建立新手包。"
 
 #: src/components/StarterPack/QrCodeDialog.tsx:60
 msgid "You must grant access to your photo library to save a QR code"
