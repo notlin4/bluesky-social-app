@@ -2718,7 +2718,7 @@ msgstr "為了安全起見，我們將傳送一組驗證碼到您的電子郵件
 
 #: src/view/com/modals/AddAppPasswords.tsx:233
 msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
-msgstr "為了安全起見，您將無法再次查看這項內容。如果您遺失了此密碼，您將需要再產生一個新的密碼。"
+msgstr "為了安全起見，將無法再次查看此密碼。如果您不慎丟失了，則需要再產生一個新的密碼。"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:73
 #: src/screens/Settings/AppearanceSettings.tsx:143
