@@ -6702,7 +6702,7 @@ msgstr "這則回覆將被分類到您討論串底部的隱藏部分，並將為
 
 #: src/screens/Signup/StepInfo/Policies.tsx:37
 msgid "This service has not provided terms of service or a privacy policy."
-msgstr "這項服務尚未提供服務條款或隱私權政策。"
+msgstr "這個服務尚未提供服務條款或隱私權政策。"
 
 #: src/view/com/modals/ChangeHandle.tsx:432
 msgid "This should create a domain record at:"
