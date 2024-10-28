@@ -5601,7 +5601,7 @@ msgstr "選擇帳號"
 
 #: src/screens/Onboarding/StepProfile/AvatarCircle.tsx:66
 msgid "Select an avatar"
-msgstr "選擇一個大頭貼"
+msgstr "選擇一個大頭貼照"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:65
 msgid "Select an emoji"
