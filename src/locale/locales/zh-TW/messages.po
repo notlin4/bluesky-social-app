@@ -4374,7 +4374,7 @@ msgstr "開啟邀請碼列表"
 
 #: src/view/screens/Settings/index.tsx:775
 msgid "Opens modal for account deactivation confirmation"
-msgstr "開啟帳號刪除的確認彈出式視窗"
+msgstr "開啟帳號刪除確認的彈出式視窗"
 
 #: src/view/screens/Settings/index.tsx:797
 msgid "Opens modal for account deletion confirmation. Requires email code"
