@@ -7284,7 +7284,7 @@ msgstr "查看已封鎖用戶的個人檔案"
 
 #: src/view/screens/Settings/ExportCarDialog.tsx:96
 msgid "View blogpost for more details"
-msgstr "參閱部落格文章以瞭解詳細"
+msgstr "參閱部落格文章以瞭解詳細資訊"
 
 #: src/view/screens/Log.tsx:57
 msgid "View debug entry"
