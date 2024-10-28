@@ -5761,7 +5761,7 @@ msgstr "設定新密碼"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:122
 msgid "Set this setting to \"No\" to hide all quote posts from your feed. Reposts will still be visible."
-msgstr "將此選項設為「關」以隱藏動態中所有引用的貼文，但轉發依然會顯示。"
+msgstr "將此選項設為「關」以隱藏動態中所有的引用貼文。不會影響轉貼顯示。"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:64
 msgid "Set this setting to \"No\" to hide all replies from your feed."
