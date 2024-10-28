@@ -3406,7 +3406,7 @@ msgstr "清單已封鎖"
 #: src/components/ListCard.tsx:150
 #: src/view/com/feeds/FeedSourceCard.tsx:252
 msgid "List by {0}"
-msgstr "清單由 {0} 建立"
+msgstr "由 {0} 建立的清單"
 
 #: src/view/screens/ProfileList.tsx:459
 msgid "List deleted"
