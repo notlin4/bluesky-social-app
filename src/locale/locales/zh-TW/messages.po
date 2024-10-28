@@ -5931,7 +5931,7 @@ msgstr "顯示更多"
 #: src/view/com/util/forms/PostDropdownBtn.tsx:483
 #: src/view/com/util/forms/PostDropdownBtn.tsx:485
 msgid "Show more like this"
-msgstr "顯示更多這類內容"
+msgstr "顯示更多類似內容"
 
 #: src/view/com/post-thread/PostThreadShowHiddenReplies.tsx:23
 msgid "Show muted replies"
