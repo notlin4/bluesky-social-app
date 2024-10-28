@@ -4378,7 +4378,7 @@ msgstr "開啟帳號刪除確認的彈出式視窗"
 
 #: src/view/screens/Settings/index.tsx:797
 msgid "Opens modal for account deletion confirmation. Requires email code"
-msgstr "開啟帳號刪除的確認彈出式視窗。需要電子郵件驗證碼"
+msgstr "開啟帳號刪除確認的彈出式視窗。需要電子郵件驗證碼"
 
 #: src/view/screens/Settings/index.tsx:732
 msgid "Opens modal for changing your Bluesky password"
