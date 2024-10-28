@@ -6653,7 +6653,7 @@ msgstr "這個標記由您新增。"
 
 #: src/screens/Profile/Sections/Labels.tsx:188
 msgid "This labeler hasn't declared what labels it publishes, and may not be active."
-msgstr "這個標記者尚未宣告其發布的標記，而且可能不會生效。"
+msgstr "這個標記者尚未公開其發佈的標記類型，也可能已經不再提供服務。"
 
 #: src/view/com/modals/LinkWarning.tsx:72
 msgid "This link is taking you to the following website:"
