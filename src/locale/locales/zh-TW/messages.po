@@ -1185,7 +1185,7 @@ msgstr "按這裡以開啟 {tag} 的標籤選單"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:304
 msgid "Click to disable quote posts of this post."
-msgstr "按下以停用這則貼文的引用貼文。"
+msgstr "按下以拒絕其他人引用這則貼文。"
 
 #: src/components/dialogs/PostInteractionSettingsDialog.tsx:305
 msgid "Click to enable quote posts of this post."
