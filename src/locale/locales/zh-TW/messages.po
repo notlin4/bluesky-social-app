@@ -3295,7 +3295,7 @@ msgstr "深入瞭解這個警告"
 #: src/screens/Moderation/index.tsx:587
 #: src/screens/Moderation/index.tsx:589
 msgid "Learn more about what is public on Bluesky."
-msgstr "深入瞭解 Bluesky 上的公開資訊。"
+msgstr "深入瞭解在 Bluesky 上公開的內容。"
 
 #: src/components/moderation/ContentHider.tsx:217
 #: src/view/com/auth/server-input/index.tsx:158
