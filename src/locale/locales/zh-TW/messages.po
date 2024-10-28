@@ -5769,7 +5769,7 @@ msgstr "將此選項設為「關」以隱藏動態中所有的回覆貼文。"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:88
 msgid "Set this setting to \"No\" to hide all reposts from your feed."
-msgstr "將此選項設為「關」以隱藏動態的所有轉發貼文。"
+msgstr "將此選項設為「關」以隱藏動態中所有的轉發貼文。"
 
 #: src/view/screens/PreferencesThreads.tsx:117
 msgid "Set this setting to \"Yes\" to show replies in a threaded view. This is an experimental feature."
