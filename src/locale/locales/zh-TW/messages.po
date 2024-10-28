@@ -519,7 +519,7 @@ msgstr "替代文字可為盲人和視障人士描述圖片，並有助於為每
 #: src/view/com/composer/GifAltText.tsx:179
 #: src/view/com/composer/photos/ImageAltTextDialog.tsx:139
 msgid "Alt text will be truncated. Limit: {0} characters."
-msgstr "替代文字太長將要被截斷，字數限制：{0} 個字元。"
+msgstr "替代文字過長，將被截斷。字數限制：{0} 個字元。"
 
 #: src/view/com/modals/VerifyEmail.tsx:132
 #: src/view/screens/Settings/DisableEmail2FADialog.tsx:95
