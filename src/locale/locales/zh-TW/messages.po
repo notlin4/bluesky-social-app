@@ -561,7 +561,7 @@ msgstr "載入影片時發生錯誤。請再試一次。"
 #: src/components/StarterPack/QrCodeDialog.tsx:71
 #: src/components/StarterPack/ShareDialog.tsx:80
 msgid "An error occurred while saving the QR code!"
-msgstr "儲存 QR 圖碼時發生錯誤！"
+msgstr "儲存 QR Code 時發生錯誤！"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:87
 msgid "An error occurred while selecting the video"
