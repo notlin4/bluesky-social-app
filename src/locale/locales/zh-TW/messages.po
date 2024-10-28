@@ -3041,7 +3041,7 @@ msgstr "如果根據您所在國家的法律，您尚未成年，則您的家長
 
 #: src/view/screens/ProfileList.tsx:723
 msgid "If you delete this list, you won't be able to recover it."
-msgstr "如果刪除這個清單，您將無法復原它。"
+msgstr "如果您刪除這個清單，將無法復原。"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:670
 msgid "If you remove this post, you won't be able to recover it."
