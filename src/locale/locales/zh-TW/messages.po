@@ -7318,7 +7318,7 @@ msgstr "查看資料"
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:127
 msgid "View the avatar"
-msgstr "查看大頭貼"
+msgstr "查看大頭貼照"
 
 #: src/components/LabelingServiceCard/index.tsx:162
 msgid "View the labeling service provided by @{0}"
