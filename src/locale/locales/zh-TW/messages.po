@@ -6615,7 +6615,7 @@ msgstr "這項功能目前為測試版本。您可以在<0>這篇部落格文章
 
 #: src/view/com/posts/FeedErrorMessage.tsx:120
 msgid "This feed is currently receiving high traffic and is temporarily unavailable. Please try again later."
-msgstr "這個動態源由於目前使用人數眾多而暫時無法使用。請稍後再試。"
+msgstr "目前這個動態源使用人數過多，暫時無法使用。請稍後再試。"
 
 #: src/view/com/posts/CustomFeedEmptyState.tsx:37
 msgid "This feed is empty! You may need to follow more users or tune your language settings."
