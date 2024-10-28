@@ -2251,7 +2251,7 @@ msgstr "儲存檔案時發生錯誤"
 
 #: src/screens/Signup/StepCaptcha/index.tsx:56
 msgid "Error receiving captcha response."
-msgstr "驗證碼回應接收錯誤。"
+msgstr "接收驗證碼回應時發生錯誤。"
 
 #: src/screens/Onboarding/StepInterests/index.tsx:183
 #: src/view/screens/Search/Search.tsx:122
