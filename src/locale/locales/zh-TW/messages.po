@@ -6706,7 +6706,7 @@ msgstr "這個服務尚未提供服務條款或隱私權政策。"
 
 #: src/view/com/modals/ChangeHandle.tsx:432
 msgid "This should create a domain record at:"
-msgstr "這應該會在以下位置建立網域名稱記錄："
+msgstr "這應該會在下列位置建立一個網域名稱記錄："
 
 #: src/view/com/profile/ProfileFollowers.tsx:96
 msgid "This user doesn't have any followers."
