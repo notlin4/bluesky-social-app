@@ -2017,7 +2017,7 @@ msgstr "編輯"
 #: src/view/com/util/UserAvatar.tsx:347
 #: src/view/com/util/UserBanner.tsx:95
 msgid "Edit avatar"
-msgstr "編輯大頭貼"
+msgstr "編輯大頭貼照"
 
 #: src/components/StarterPack/Wizard/WizardEditListDialog.tsx:111
 msgid "Edit Feeds"
