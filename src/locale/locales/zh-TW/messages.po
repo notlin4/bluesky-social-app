@@ -7259,7 +7259,7 @@ msgstr "影片長度必須少於 60 秒"
 
 #: src/screens/Profile/Header/Shell.tsx:128
 msgid "View {0}'s avatar"
-msgstr "查看 {0} 的大頭貼"
+msgstr "查看 {0} 的大頭貼照"
 
 #: src/components/ProfileCard.tsx:110
 #: src/view/com/notifications/FeedItem.tsx:273
