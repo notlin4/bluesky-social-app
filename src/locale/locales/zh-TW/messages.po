@@ -5765,7 +5765,7 @@ msgstr "將此選項設為「關」以隱藏動態中所有的引用貼文。不
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:64
 msgid "Set this setting to \"No\" to hide all replies from your feed."
-msgstr "將此選項設為「關」以隱藏動態中所有回覆貼文。"
+msgstr "將此選項設為「關」以隱藏動態中所有的回覆貼文。"
 
 #: src/view/screens/PreferencesFollowingFeed.tsx:88
 msgid "Set this setting to \"No\" to hide all reposts from your feed."
