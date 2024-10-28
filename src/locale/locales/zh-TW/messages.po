@@ -4370,7 +4370,7 @@ msgstr "開啟 GIF 選擇對話框"
 
 #: src/view/com/modals/InviteCodes.tsx:173
 msgid "Opens list of invite codes"
-msgstr "開啟邀請碼清單"
+msgstr "開啟邀請碼列表"
 
 #: src/view/screens/Settings/index.tsx:775
 msgid "Opens modal for account deactivation confirmation"
