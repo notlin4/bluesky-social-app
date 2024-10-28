@@ -6694,7 +6694,7 @@ msgstr "這則貼文的發布者拒絕引用貼文。"
 
 #: src/view/com/profile/ProfileMenu.tsx:350
 msgid "This profile is only visible to logged-in users. It won't be visible to people who aren't logged in."
-msgstr "只有登入用戶能見到此個人檔案。未登入的人將看不到它。"
+msgstr "只有登入用戶能見到此個人檔案。未登入的人則看不到它。"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:743
 msgid "This reply will be sorted into a hidden section at the bottom of your thread and will mute notifications for subsequent replies - both for yourself and others."
