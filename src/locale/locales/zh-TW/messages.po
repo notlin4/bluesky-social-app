@@ -1617,7 +1617,7 @@ msgstr "自訂網域"
 #: src/view/screens/Feeds.tsx:761
 #: src/view/screens/Search/Explore.tsx:391
 msgid "Custom feeds built by the community bring you new experiences and help you find the content you love."
-msgstr "由社群打造的自訂動態源帶來嶄新體驗，並協助您找到喜愛的內容。"
+msgstr "由社群打造的自訂動態源為您帶來嶄新體驗，並協助您找到喜愛的內容。"
 
 #: src/view/screens/PreferencesExternalEmbeds.tsx:54
 msgid "Customize media from external sites."
