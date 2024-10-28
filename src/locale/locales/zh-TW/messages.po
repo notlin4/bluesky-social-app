@@ -3397,7 +3397,7 @@ msgstr "清單"
 
 #: src/view/com/modals/CreateOrEditList.tsx:241
 msgid "List Avatar"
-msgstr "清單大頭貼"
+msgstr "清單大頭貼照"
 
 #: src/view/screens/ProfileList.tsx:422
 msgid "List blocked"
