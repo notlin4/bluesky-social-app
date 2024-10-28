@@ -6735,7 +6735,7 @@ msgstr "這個用戶包含在您已靜音的 <0>{0}</0> 清單中。"
 
 #: src/components/NewskieDialog.tsx:65
 msgid "This user is new here. Press for more info about when they joined."
-msgstr "這位使用者剛加入。請按這裡瞭解更多有關他們何時加入的資訊。"
+msgstr "這位使用者剛加入。按這裡以瞭解他們的加入時間。"
 
 #: src/view/com/profile/ProfileFollows.tsx:96
 msgid "This user isn't following anyone."
