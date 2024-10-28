@@ -2892,7 +2892,7 @@ msgstr "幫助"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:237
 msgid "Help people know you're not a bot by uploading a picture or creating an avatar."
-msgstr "透過上傳圖片或建立大頭貼，讓大家知道你不是機器人。"
+msgstr "透過上傳圖片或建立大頭貼照，讓大家知道你不是機器人。"
 
 #: src/view/com/modals/AddAppPasswords.tsx:204
 msgid "Here is your app password."
