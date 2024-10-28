@@ -1145,7 +1145,7 @@ msgstr "選擇提供您自訂動態的演算法。"
 
 #: src/screens/Onboarding/StepProfile/AvatarCreatorItems.tsx:107
 msgid "Choose this color as your avatar"
-msgstr "選擇這個顏色作為您的大頭貼"
+msgstr "選擇這個顏色作為您的大頭貼照"
 
 #: src/screens/Signup/StepInfo/index.tsx:201
 msgid "Choose your password"
