@@ -3570,7 +3570,7 @@ msgstr "選單"
 
 #: src/components/dms/MessageProfileButton.tsx:62
 msgid "Message {0}"
-msgstr "傳訊息給 {0}"
+msgstr "傳送訊息給 {0}"
 
 #: src/components/dms/MessageMenu.tsx:72
 #: src/screens/Messages/components/ChatListItem.tsx:165
