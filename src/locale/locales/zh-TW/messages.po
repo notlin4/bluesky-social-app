@@ -1512,7 +1512,7 @@ msgstr "複製貼文文字"
 
 #: src/components/StarterPack/QrCodeDialog.tsx:169
 msgid "Copy QR code"
-msgstr "複製 QR 圖碼"
+msgstr "複製 QR Code"
 
 #: src/Navigation.tsx:280
 #: src/view/screens/CopyrightPolicy.tsx:31
