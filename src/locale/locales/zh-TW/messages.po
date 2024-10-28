@@ -4252,7 +4252,7 @@ msgstr "開啟 {name} 個人檔案快捷選單"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:286
 msgid "Open avatar creator"
-msgstr "開啟大頭貼建立工具"
+msgstr "開啟大頭貼照建立工具"
 
 #: src/screens/Messages/components/ChatListItem.tsx:272
 #: src/screens/Messages/components/ChatListItem.tsx:273
