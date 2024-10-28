@@ -3285,7 +3285,7 @@ msgstr "深入瞭解如何自行託管 PDS。"
 #: src/components/moderation/ContentHider.tsx:127
 #: src/components/moderation/ContentHider.tsx:193
 msgid "Learn more about the moderation applied to this content."
-msgstr "詳細瞭解套用於這項內容的內容管理。"
+msgstr "深入瞭解套用於這項內容的內容管理。"
 
 #: src/components/moderation/PostHider.tsx:100
 #: src/components/moderation/ScreenHider.tsx:127
