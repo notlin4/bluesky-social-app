@@ -5012,7 +5012,7 @@ msgstr "復原貼文分離"
 
 #: src/view/com/util/UserAvatar.tsx:403
 msgid "Remove Avatar"
-msgstr "刪除大頭貼"
+msgstr "刪除大頭貼照"
 
 #: src/view/com/util/UserBanner.tsx:155
 msgid "Remove Banner"
