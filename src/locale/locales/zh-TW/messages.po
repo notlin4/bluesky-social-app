@@ -273,7 +273,7 @@ msgstr "存取個人檔案和其他導覽連結"
 
 #: src/view/screens/Settings/index.tsx:464
 msgid "Accessibility"
-msgstr "無障礙設定"
+msgstr "無障礙"
 
 #: src/view/screens/Settings/index.tsx:455
 msgid "Accessibility settings"
