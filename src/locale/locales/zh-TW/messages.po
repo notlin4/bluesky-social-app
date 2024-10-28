@@ -2786,7 +2786,7 @@ msgstr "GIF"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:234
 msgid "Give your profile a face"
-msgstr "幫你的個人檔案設定大頭貼"
+msgstr "為你的個人檔案選擇大頭貼照"
 
 #: src/lib/moderation/useReportOptions.ts:39
 msgid "Glaring violations of law or terms of service"
