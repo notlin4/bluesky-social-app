@@ -4107,7 +4107,7 @@ msgstr "找不到"
 #: src/view/com/modals/VerifyEmail.tsx:254
 #: src/view/com/modals/VerifyEmail.tsx:260
 msgid "Not right now"
-msgstr "暫時不要"
+msgstr "暫時略過"
 
 #: src/view/com/profile/ProfileMenu.tsx:348
 #: src/view/com/util/forms/PostDropdownBtn.tsx:698
