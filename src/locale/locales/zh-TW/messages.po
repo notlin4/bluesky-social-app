@@ -129,7 +129,7 @@ msgstr "「{0}」的大頭貼照"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:68
 msgid "{0}'s favorite feeds and people - join me!"
-msgstr "「{0}」最愛的動態和人物 - 快來加入我！"
+msgstr "「{0}」最愛的動態和人物 - 快來加入我吧！"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:47
 msgid "{0}'s starter pack"
