@@ -875,7 +875,7 @@ msgstr "Bluesky 將從您的個人社群網路中選擇一組推薦的帳號。"
 
 #: src/screens/Moderation/index.tsx:571
 msgid "Bluesky will not show your profile and posts to logged-out users. Other apps may not honor this request. This does not make your account private."
-msgstr "Bluesky 的官方程式將不會向未登入的用戶顯示您的個人檔案和貼文。但其他應用程式可能不會遵循這個要求，這不會使您的帳號轉為私人狀態。"
+msgstr "Bluesky 的官方程式將不會向未登入的用戶顯示您的個人檔案和貼文。但其他應用程式可能不會遵循這個要求，這不會使您的帳號轉為非公開狀態。"
 
 #: src/lib/moderation/useLabelBehaviorDescription.ts:53
 msgid "Blur images"
