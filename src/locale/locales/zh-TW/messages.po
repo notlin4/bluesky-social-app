@@ -1655,11 +1655,11 @@ msgstr "停用我的帳號"
 
 #: src/view/screens/Settings/index.tsx:840
 msgid "Debug Moderation"
-msgstr "內容管理除錯"
+msgstr "內容管理偵錯"
 
 #: src/view/screens/Debug.tsx:90
 msgid "Debug panel"
-msgstr "除錯面板"
+msgstr "偵錯面板"
 
 #: src/components/dialogs/nuxs/NeueTypography.tsx:99
 #: src/screens/Settings/AppearanceSettings.tsx:169
@@ -4324,7 +4324,7 @@ msgstr "開啟無障礙設定"
 
 #: src/view/screens/Log.tsx:59
 msgid "Opens additional details for a debug entry"
-msgstr "開啟除錯項目的額外詳細資訊"
+msgstr "開啟偵錯項目的額外詳細資訊"
 
 #: src/view/screens/Settings/index.tsx:477
 msgid "Opens appearance settings"
@@ -7288,7 +7288,7 @@ msgstr "參閱部落格文章以瞭解詳細資訊"
 
 #: src/view/screens/Log.tsx:57
 msgid "View debug entry"
-msgstr "查看除錯項目"
+msgstr "查看偵錯項目"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:139
 msgid "View details"
