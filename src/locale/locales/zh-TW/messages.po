@@ -945,7 +945,7 @@ msgstr "建立帳號即表示您同意<0>服務條款</0>。"
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:162
 msgid "by you"
-msgstr "來自您自己"
+msgstr "由您設定"
 
 #: src/view/com/composer/photos/OpenCameraBtn.tsx:72
 msgid "Camera"
