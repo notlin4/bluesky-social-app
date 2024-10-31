@@ -548,7 +548,7 @@ msgstr "壓縮影片時發生錯誤。"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:316
 msgid "An error occurred while generating your starter pack. Want to try again?"
-msgstr "建立您的新手包時發生錯誤。要重試嗎？"
+msgstr "建立您的新手包時發生錯誤。要再試一次嗎？"
 
 #: src/view/com/util/post-embeds/VideoEmbed.tsx:135
 msgid "An error occurred while loading the video. Please try again later."
