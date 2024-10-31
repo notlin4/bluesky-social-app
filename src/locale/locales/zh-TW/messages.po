@@ -834,7 +834,7 @@ msgstr "被封鎖的帳號無法在您的討論串中回覆、提及您，或以
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:116
 msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. You will not see their content and they will be prevented from seeing yours."
-msgstr "被封鎖的帳號無法在您的討論串中回覆、提及您，或以其他方式與您互動。您將看不到他們的內容，他們也無法看到您的內容。"
+msgstr "被封鎖的帳號無法在您的討論串中回覆、提及您，或以其他方式與您互動。您將看不到他們的內容，他們也會被阻止看到您的內容"
 
 #: src/view/com/post-thread/PostThread.tsx:412
 msgid "Blocked post."
