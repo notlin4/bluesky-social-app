@@ -309,7 +309,7 @@ msgstr "已靜音帳號"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:88
 msgid "Account Muted by List"
-msgstr "帳號已被清單靜音"
+msgstr "帳號已被列表靜音"
 
 #: src/view/com/util/AccountDropdownBtn.tsx:43
 msgid "Account options"
@@ -354,7 +354,7 @@ msgstr "新增內容警告"
 
 #: src/view/screens/ProfileList.tsx:930
 msgid "Add a user to this list"
-msgstr "將用戶新增至這個清單"
+msgstr "將用戶新增至這個列表"
 
 #: src/components/dialogs/SwitchAccount.tsx:55
 #: src/screens/Deactivated.tsx:199
@@ -414,7 +414,7 @@ msgstr "將此新增至您的動態源"
 #: src/view/com/profile/ProfileMenu.tsx:243
 #: src/view/com/profile/ProfileMenu.tsx:246
 msgid "Add to Lists"
-msgstr "新增至清單"
+msgstr "新增至列表"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:266
 msgid "Add to my feeds"
@@ -423,7 +423,7 @@ msgstr "加入到我的動態源"
 #: src/view/com/modals/ListAddRemoveUsers.tsx:192
 #: src/view/com/modals/UserAddRemoveLists.tsx:162
 msgid "Added to list"
-msgstr "新增至清單"
+msgstr "新增至列表"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:125
 msgid "Added to my feeds"
@@ -809,7 +809,7 @@ msgstr "封鎖帳號"
 
 #: src/view/screens/ProfileList.tsx:747
 msgid "Block list"
-msgstr "封鎖清單"
+msgstr "封鎖列表"
 
 #: src/view/screens/ProfileList.tsx:742
 msgid "Block these accounts?"
@@ -1272,11 +1272,11 @@ msgstr "關閉標題圖片檢視器"
 
 #: src/view/com/notifications/FeedItem.tsx:265
 msgid "Collapse list of users"
-msgstr "折疊用戶清單"
+msgstr "折疊用戶列表"
 
 #: src/view/com/notifications/FeedItem.tsx:470
 msgid "Collapses list of users for a given notification"
-msgstr "折疊指定通知的用戶清單"
+msgstr "折疊指定通知的用戶列表"
 
 #: src/screens/Settings/AppearanceSettings.tsx:97
 msgid "Color mode"
@@ -1493,7 +1493,7 @@ msgstr "複製連結"
 
 #: src/view/screens/ProfileList.tsx:487
 msgid "Copy link to list"
-msgstr "複製清單連結"
+msgstr "複製列表連結"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:452
 #: src/view/com/util/forms/PostDropdownBtn.tsx:461
@@ -1529,7 +1529,7 @@ msgstr "無法載入動態"
 
 #: src/view/screens/ProfileList.tsx:1020
 msgid "Could not load list"
-msgstr "無法載入清單"
+msgstr "無法載入列表"
 
 #: src/components/dms/ConvoMenu.tsx:88
 msgid "Could not mute chat"
@@ -1703,7 +1703,7 @@ msgstr "為我刪除"
 
 #: src/view/screens/ProfileList.tsx:530
 msgid "Delete List"
-msgstr "刪除清單"
+msgstr "刪除列表"
 
 #: src/components/dms/MessageMenu.tsx:147
 msgid "Delete message"
@@ -1737,7 +1737,7 @@ msgstr "要刪除新手包嗎？"
 
 #: src/view/screens/ProfileList.tsx:721
 msgid "Delete this list?"
-msgstr "要刪除這個清單嗎？"
+msgstr "要刪除這個列表嗎？"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:668
 msgid "Delete this post?"
@@ -2036,11 +2036,11 @@ msgstr "編輯「互動設定」"
 
 #: src/view/screens/ProfileList.tsx:518
 msgid "Edit list details"
-msgstr "編輯清單詳情"
+msgstr "編輯列表詳情"
 
 #: src/view/com/modals/CreateOrEditList.tsx:230
 msgid "Edit Moderation List"
-msgstr "編輯內容管理清單"
+msgstr "編輯內容管理列表"
 
 #: src/Navigation.tsx:290
 #: src/view/screens/Feeds.tsx:384
@@ -2076,7 +2076,7 @@ msgstr "編輯新手包"
 
 #: src/view/com/modals/CreateOrEditList.tsx:225
 msgid "Edit User List"
-msgstr "編輯用戶清單"
+msgstr "編輯用戶列表"
 
 #: src/components/WhoCanReply.tsx:87
 msgid "Edit who can reply"
@@ -2321,7 +2321,7 @@ msgstr "展開替代文字"
 
 #: src/view/com/notifications/FeedItem.tsx:266
 msgid "Expand list of users"
-msgstr "展開用戶清單"
+msgstr "展開用戶列表"
 
 #: src/view/com/composer/ComposerReplyTo.tsx:82
 #: src/view/com/composer/ComposerReplyTo.tsx:85
@@ -2393,7 +2393,7 @@ msgstr "無法建立新手包"
 
 #: src/view/com/modals/CreateOrEditList.tsx:186
 msgid "Failed to create the list. Check your internet connection and try again."
-msgstr "無法建立清單。請檢查您的網路連線，然後再試一次。"
+msgstr "無法建立列表。請檢查您的網路連線，然後再試一次。"
 
 #: src/components/dms/MessageMenu.tsx:73
 msgid "Failed to delete message"
@@ -2900,7 +2900,7 @@ msgstr "這是您的應用程式專用密碼。"
 
 #: src/components/ListCard.tsx:130
 msgid "Hidden list"
-msgstr "隱藏清單"
+msgstr "隱藏列表"
 
 #: src/components/moderation/ContentHider.tsx:178
 #: src/components/moderation/LabelPreference.tsx:134
@@ -2949,7 +2949,7 @@ msgstr "要隱藏這則回覆嗎？"
 
 #: src/view/com/notifications/FeedItem.tsx:468
 msgid "Hide user list"
-msgstr "隱藏用戶清單"
+msgstr "隱藏用戶列表"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:117
 msgid "Hmm, some kind of issue occurred when contacting the feed server. Please let the feed owner know about this issue."
@@ -3041,7 +3041,7 @@ msgstr "如果根據您所在國家的法律，您尚未成年，則您的家長
 
 #: src/view/screens/ProfileList.tsx:723
 msgid "If you delete this list, you won't be able to recover it."
-msgstr "如果您刪除這個清單，將無法復原。"
+msgstr "如果您刪除這個列表，將無法復原。"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:670
 msgid "If you remove this post, you won't be able to recover it."
@@ -3393,48 +3393,48 @@ msgstr "這則貼文的喜歡數"
 
 #: src/Navigation.tsx:192
 msgid "List"
-msgstr "清單"
+msgstr "列表"
 
 #: src/view/com/modals/CreateOrEditList.tsx:241
 msgid "List Avatar"
-msgstr "清單大頭貼照"
+msgstr "列表大頭貼照"
 
 #: src/view/screens/ProfileList.tsx:422
 msgid "List blocked"
-msgstr "清單已封鎖"
+msgstr "列表已封鎖"
 
 #: src/components/ListCard.tsx:150
 #: src/view/com/feeds/FeedSourceCard.tsx:252
 msgid "List by {0}"
-msgstr "由 {0} 建立的清單"
+msgstr "由 {0} 建立的列表"
 
 #: src/view/screens/ProfileList.tsx:459
 msgid "List deleted"
-msgstr "清單已刪除"
+msgstr "列表已刪除"
 
 #: src/screens/List/ListHiddenScreen.tsx:126
 msgid "List has been hidden"
-msgstr "清單已隱藏"
+msgstr "列表已隱藏"
 
 #: src/view/screens/ProfileList.tsx:170
 msgid "List Hidden"
-msgstr "隱藏清單"
+msgstr "隱藏列表"
 
 #: src/view/screens/ProfileList.tsx:396
 msgid "List muted"
-msgstr "清單已靜音"
+msgstr "列表已靜音"
 
 #: src/view/com/modals/CreateOrEditList.tsx:255
 msgid "List Name"
-msgstr "清單名稱"
+msgstr "列表名稱"
 
 #: src/view/screens/ProfileList.tsx:435
 msgid "List unblocked"
-msgstr "已解除封鎖的清單"
+msgstr "已解除封鎖的列表"
 
 #: src/view/screens/ProfileList.tsx:409
 msgid "List unmuted"
-msgstr "已解除靜音的清單"
+msgstr "已解除靜音的列表"
 
 #: src/Navigation.tsx:129
 #: src/view/screens/Profile.tsx:227
@@ -3443,11 +3443,11 @@ msgstr "已解除靜音的清單"
 #: src/view/shell/Drawer.tsx:524
 #: src/view/shell/Drawer.tsx:525
 msgid "Lists"
-msgstr "清單"
+msgstr "列表"
 
 #: src/components/dms/BlockedByListDialog.tsx:39
 msgid "Lists blocking this user:"
-msgstr "封鎖這個用戶的清單："
+msgstr "封鎖這個用戶的列表："
 
 #: src/view/screens/Search/Explore.tsx:131
 msgid "Load more"
@@ -3622,33 +3622,33 @@ msgstr "內容管理詳情"
 #: src/components/ListCard.tsx:149
 #: src/view/com/modals/UserAddRemoveLists.tsx:222
 msgid "Moderation list by {0}"
-msgstr "由 {0} 建立的內容管理清單"
+msgstr "由 {0} 建立的內容管理列表"
 
 #: src/view/screens/ProfileList.tsx:902
 msgid "Moderation list by <0/>"
-msgstr "由 <0/> 建立的內容管理清單"
+msgstr "由 <0/> 建立的內容管理列表"
 
 #: src/view/com/modals/UserAddRemoveLists.tsx:220
 #: src/view/screens/ProfileList.tsx:900
 msgid "Moderation list by you"
-msgstr "您建立的內容管理清單"
+msgstr "您建立的內容管理列表"
 
 #: src/view/com/modals/CreateOrEditList.tsx:177
 msgid "Moderation list created"
-msgstr "已建立內容管理清單"
+msgstr "已建立內容管理列表"
 
 #: src/view/com/modals/CreateOrEditList.tsx:163
 msgid "Moderation list updated"
-msgstr "內容管理清單已更新"
+msgstr "內容管理列表已更新"
 
 #: src/screens/Moderation/index.tsx:250
 msgid "Moderation lists"
-msgstr "內容管理清單"
+msgstr "內容管理列表"
 
 #: src/Navigation.tsx:139
 #: src/view/screens/ModerationModlists.tsx:60
 msgid "Moderation Lists"
-msgstr "內容管理清單"
+msgstr "內容管理列表"
 
 #: src/components/moderation/LabelPreference.tsx:246
 msgid "moderation settings"
@@ -3734,7 +3734,7 @@ msgstr "靜音："
 
 #: src/view/screens/ProfileList.tsx:737
 msgid "Mute list"
-msgstr "靜音清單"
+msgstr "靜音列表"
 
 #: src/view/screens/ProfileList.tsx:732
 msgid "Mute these accounts?"
@@ -3896,7 +3896,7 @@ msgstr "新訊息"
 
 #: src/view/com/modals/CreateOrEditList.tsx:232
 msgid "New Moderation List"
-msgstr "新的內容管理清單"
+msgstr "新的內容管理列表"
 
 #: src/view/com/modals/ChangePassword.tsx:213
 msgid "New password"
@@ -3932,7 +3932,7 @@ msgstr "新用戶資訊對話框"
 
 #: src/view/com/modals/CreateOrEditList.tsx:227
 msgid "New User List"
-msgstr "新的用戶清單"
+msgstr "新的用戶列表"
 
 #: src/view/screens/PreferencesThreads.tsx:74
 msgid "Newest replies first"
@@ -4588,7 +4588,7 @@ msgstr "已釘選"
 
 #: src/view/screens/SavedFeeds.tsx:129
 msgid "Pinned Feeds"
-msgstr "釘選的動態源清單"
+msgstr "釘選的動態源列表"
 
 #: src/view/screens/ProfileList.tsx:355
 msgid "Pinned to your feeds"
@@ -4873,11 +4873,11 @@ msgstr "公開"
 
 #: src/view/screens/ModerationModlists.tsx:63
 msgid "Public, shareable lists of users to mute or block in bulk."
-msgstr "公開且可分享的用戶清單，可供批次靜音或封鎖。"
+msgstr "公開且可分享的用戶列表，可供批次靜音或封鎖。"
 
 #: src/view/screens/Lists.tsx:69
 msgid "Public, shareable lists which can drive feeds."
-msgstr "公開且可分享的清單，可作為動態源使用。"
+msgstr "公開且可分享的列表，可作為動態源使用。"
 
 #: src/view/com/composer/Composer.tsx:566
 msgid "Publish post"
@@ -5060,7 +5060,7 @@ msgstr "刪除圖片"
 
 #: src/components/dialogs/MutedWords.tsx:523
 msgid "Remove mute word from your list"
-msgstr "從您的清單中刪除靜音字詞"
+msgstr "從您的列表中刪除靜音字詞"
 
 #: src/view/screens/Search/Search.tsx:1100
 msgid "Remove profile"
@@ -5085,7 +5085,7 @@ msgstr "移除字幕檔案"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:211
 msgid "Remove this feed from your saved feeds"
-msgstr "將這個動態源從您已儲存之動態源清單中刪除"
+msgstr "將這個動態源從您已儲存之動態源列表中刪除"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:110
 msgid "Removed by author"
@@ -5098,7 +5098,7 @@ msgstr "由您刪除"
 #: src/view/com/modals/ListAddRemoveUsers.tsx:200
 #: src/view/com/modals/UserAddRemoveLists.tsx:170
 msgid "Removed from list"
-msgstr "從清單中刪除"
+msgstr "從列表中刪除"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:138
 msgid "Removed from my feeds"
@@ -5217,7 +5217,7 @@ msgstr "檢舉動態源"
 
 #: src/view/screens/ProfileList.tsx:544
 msgid "Report List"
-msgstr "檢舉清單"
+msgstr "檢舉列表"
 
 #: src/components/dms/MessageMenu.tsx:130
 msgid "Report message"
@@ -5243,7 +5243,7 @@ msgstr "檢舉這個動態源"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:53
 msgid "Report this list"
-msgstr "檢舉這個清單"
+msgstr "檢舉這個列表"
 
 #: src/components/dms/ReportDialog.tsx:44
 #: src/components/dms/ReportDialog.tsx:137
@@ -5920,7 +5920,7 @@ msgstr "減少顯示類似內容"
 
 #: src/screens/List/ListHiddenScreen.tsx:172
 msgid "Show list anyway"
-msgstr "仍然顯示清單"
+msgstr "仍然顯示列表"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:580
 #: src/view/com/post/Post.tsx:233
@@ -6212,7 +6212,7 @@ msgstr "訂閱這個標記者"
 
 #: src/view/screens/ProfileList.tsx:699
 msgid "Subscribe to this list"
-msgstr "訂閱這個清單"
+msgstr "訂閱這個列表"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:81
 msgid "Success!"
@@ -6500,12 +6500,12 @@ msgstr "取得貼文時發生問題，按這裡重試。"
 
 #: src/view/com/lists/ListMembers.tsx:169
 msgid "There was an issue fetching the list. Tap here to try again."
-msgstr "取得清單時發生問題，按這裡重試。"
+msgstr "取得列表時發生問題，按這裡重試。"
 
 #: src/view/com/feeds/ProfileFeedgens.tsx:150
 #: src/view/com/lists/ProfileLists.tsx:149
 msgid "There was an issue fetching your lists. Tap here to try again."
-msgstr "取得清單時發生問題，按這裡重試。"
+msgstr "取得列表時發生問題，按這裡重試。"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:145
 msgid "There was an issue removing this feed. Please check your internet connection and try again."
@@ -6570,7 +6570,7 @@ msgstr "這個帳號要求用戶登入後才能查看其個人檔案。"
 
 #: src/components/dms/BlockedByListDialog.tsx:34
 msgid "This account is blocked by one or more of your moderation lists. To unblock, please visit the lists directly and remove this user."
-msgstr "這個帳號已被一個或多個內容管理清單封鎖。如要解除封鎖，請檢查這些清單並刪除這個用戶。"
+msgstr "這個帳號已被一個或多個內容管理列表封鎖。如要解除封鎖，請檢查這些列表並刪除這個用戶。"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:246
 msgid "This appeal will be sent to <0>{sourceName}</0>."
@@ -6661,11 +6661,11 @@ msgstr "這個連結將帶您前往以下網站："
 
 #: src/screens/List/ListHiddenScreen.tsx:136
 msgid "This list - created by <0>{0}</0> - contains possible violations of Bluesky's community guidelines in its name or description."
-msgstr "這個清單由 <0>{0}</0> 建立，其名稱或說明中可能包含違反 Bluesky 社群規範的內容。"
+msgstr "這個列表由 <0>{0}</0> 建立，其名稱或說明中可能包含違反 Bluesky 社群規範的內容。"
 
 #: src/view/screens/ProfileList.tsx:966
 msgid "This list is empty!"
-msgstr "這個清單為空！"
+msgstr "這個列表為空！"
 
 #: src/screens/Profile/ErrorState.tsx:40
 msgid "This moderation service is unavailable. See below for more details. If this issue persists, contact us."
@@ -6727,11 +6727,11 @@ msgstr "這個用戶要求僅將其內容顯示給已登入的用戶。"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:58
 msgid "This user is included in the <0>{0}</0> list which you have blocked."
-msgstr "這個用戶包含在您已封鎖的 <0>{0}</0> 清單中。"
+msgstr "這個用戶包含在您已封鎖的 <0>{0}</0> 列表中。"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:90
 msgid "This user is included in the <0>{0}</0> list which you have muted."
-msgstr "這個用戶包含在您已靜音的 <0>{0}</0> 清單中。"
+msgstr "這個用戶包含在您已靜音的 <0>{0}</0> 列表中。"
 
 #: src/components/NewskieDialog.tsx:65
 msgid "This user is new here. Press for more info about when they joined."
@@ -6747,7 +6747,7 @@ msgstr "這將從您的靜音字詞中刪除「{0}」，您隨時可以新增回
 
 #: src/view/com/util/AccountDropdownBtn.tsx:55
 msgid "This will remove @{0} from the quick access list."
-msgstr "這將從快速存取清單中刪除 @{0}。"
+msgstr "這將從快速存取列表中刪除 @{0}。"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:733
 msgid "This will remove your post from this quote post for all users, and replace it with a placeholder."
@@ -6835,11 +6835,11 @@ msgstr "類型："
 
 #: src/view/screens/ProfileList.tsx:594
 msgid "Un-block list"
-msgstr "取消封鎖清單"
+msgstr "取消封鎖列表"
 
 #: src/view/screens/ProfileList.tsx:579
 msgid "Un-mute list"
-msgstr "取消靜音清單"
+msgstr "取消靜音列表"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:68
 #: src/screens/Login/index.tsx:76
@@ -6962,7 +6962,7 @@ msgstr "從您的個人檔案中取消釘選"
 
 #: src/view/screens/ProfileList.tsx:559
 msgid "Unpin moderation list"
-msgstr "取消釘選內容管理清單"
+msgstr "取消釘選內容管理列表"
 
 #: src/view/screens/ProfileList.tsx:356
 msgid "Unpinned from your feeds"
@@ -6975,7 +6975,7 @@ msgstr "取消訂閱"
 #: src/screens/List/ListHiddenScreen.tsx:184
 #: src/screens/List/ListHiddenScreen.tsx:194
 msgid "Unsubscribe from list"
-msgstr "取消訂閱這個清單"
+msgstr "取消訂閱這個列表"
 
 #: src/screens/Profile/Header/ProfileHeaderLabeler.tsx:193
 msgid "Unsubscribe from this labeler"
@@ -6983,7 +6983,7 @@ msgstr "取消訂閱這個標記者"
 
 #: src/screens/List/ListHiddenScreen.tsx:86
 msgid "Unsubscribed from list"
-msgstr "已從清單中取消訂閱"
+msgstr "已從列表中取消訂閱"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:72
 msgid "Unsupported video type: {mimeType}"
@@ -6996,7 +6996,7 @@ msgstr "不受歡迎的色情內容"
 
 #: src/view/com/modals/UserAddRemoveLists.tsx:82
 msgid "Update <0>{displayName}</0> in Lists"
-msgstr "更新清單中的 <0>{displayName}</0>"
+msgstr "更新列表中的 <0>{displayName}</0>"
 
 #: src/view/com/modals/ChangeHandle.tsx:495
 msgid "Update to {handle}"
@@ -7107,11 +7107,11 @@ msgstr "用戶已被「{0}」封鎖"
 
 #: src/components/dms/BlockedByListDialog.tsx:27
 msgid "User blocked by list"
-msgstr "用戶已被清單封鎖"
+msgstr "用戶已被列表封鎖"
 
 #: src/components/moderation/ModerationDetailsDialog.tsx:56
 msgid "User Blocked by List"
-msgstr "用戶已被清單封鎖"
+msgstr "用戶已被列表封鎖"
 
 #: src/lib/moderation/useModerationCauseDescription.ts:71
 msgid "User Blocking You"
@@ -7123,28 +7123,28 @@ msgstr "用戶封鎖了您"
 
 #: src/view/com/modals/UserAddRemoveLists.tsx:214
 msgid "User list by {0}"
-msgstr "{0} 的用戶清單"
+msgstr "{0} 的用戶列表"
 
 #: src/view/screens/ProfileList.tsx:890
 msgid "User list by <0/>"
-msgstr "<0/> 的用戶清單"
+msgstr "<0/> 的用戶列表"
 
 #: src/view/com/modals/UserAddRemoveLists.tsx:212
 #: src/view/screens/ProfileList.tsx:888
 msgid "User list by you"
-msgstr "您的用戶清單"
+msgstr "您的用戶列表"
 
 #: src/view/com/modals/CreateOrEditList.tsx:176
 msgid "User list created"
-msgstr "已建立用戶清單"
+msgstr "已建立用戶列表"
 
 #: src/view/com/modals/CreateOrEditList.tsx:162
 msgid "User list updated"
-msgstr "已更新用戶清單"
+msgstr "已更新用戶列表"
 
 #: src/view/screens/Lists.tsx:66
 msgid "User Lists"
-msgstr "用戶清單"
+msgstr "用戶列表"
 
 #: src/screens/Login/LoginForm.tsx:183
 msgid "Username or email address"
@@ -7339,7 +7339,7 @@ msgstr "查看您的動態並探索更多內容"
 
 #: src/screens/Moderation/index.tsx:245
 msgid "View your moderation lists"
-msgstr "查看您的內容管理清單"
+msgstr "查看您的內容管理列表"
 
 #: src/screens/Moderation/index.tsx:260
 msgid "View your muted accounts"
@@ -7426,7 +7426,7 @@ msgstr "我們非常高興您加入我們！"
 
 #: src/view/screens/ProfileList.tsx:113
 msgid "We're sorry, but we were unable to resolve this list. If this persists, please contact the list creator, @{handleOrDid}."
-msgstr "很抱歉，我們無法解析這個清單。如果問題持續發生，請聯絡清單建立者 @{handleOrDid}。"
+msgstr "很抱歉，我們無法解析這個列表。如果問題持續發生，請聯絡列表建立者 @{handleOrDid}。"
 
 #: src/components/dialogs/MutedWords.tsx:378
 msgid "We're sorry, but we weren't able to load your muted words at this time. Please try again."
@@ -7502,7 +7502,7 @@ msgstr "為什麼應該審查這個動態源？"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:54
 msgid "Why should this list be reviewed?"
-msgstr "為什麼應該審查這個清單？"
+msgstr "為什麼應該審查這個列表？"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:63
 msgid "Why should this message be reviewed?"
@@ -7689,7 +7689,7 @@ msgstr "您沒有建立任何動態源。"
 #: src/view/com/lists/MyLists.tsx:90
 #: src/view/com/lists/ProfileLists.tsx:134
 msgid "You have no lists."
-msgstr "您沒有建立任何清單。"
+msgstr "您沒有建立任何列表。"
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:133
 msgid "You have not blocked any accounts yet. To block an account, go to their profile and select \"Block account\" from the menu on their account."
@@ -7933,7 +7933,7 @@ msgstr "您的個人檔案"
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:75
 msgid "Your profile, posts, feeds, and lists will no longer be visible to other Bluesky users. You can reactivate your account at any time by logging in."
-msgstr "其他 Bluesky 用戶將無法再看到您的個人檔案、貼文、動態和清單。您可以隨時登入以重新啟用您的帳號。"
+msgstr "其他 Bluesky 用戶將無法再看到您的個人檔案、貼文、動態和列表。您可以隨時登入以重新啟用您的帳號。"
 
 #: src/view/com/composer/Composer.tsx:447
 msgid "Your reply has been published"
