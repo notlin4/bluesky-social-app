@@ -1323,7 +1323,7 @@ msgstr "設定 {name} 類別的內容篩選"
 
 #: src/components/moderation/LabelPreference.tsx:243
 msgid "Configured in <0>moderation settings</0>."
-msgstr "請在<0>內容管理設定</0>中設定。"
+msgstr "已在<0>內容管理設定</0>中設定。"
 
 #: src/components/dialogs/VerifyEmailDialog.tsx:210
 #: src/components/dialogs/VerifyEmailDialog.tsx:217
