@@ -1836,7 +1836,7 @@ msgstr "要捨棄草稿嗎？"
 #: src/screens/Moderation/index.tsx:556
 #: src/screens/Moderation/index.tsx:560
 msgid "Discourage apps from showing my account to logged-out users"
-msgstr "避免應用程式向未登入的用戶顯示我的帳號"
+msgstr "阻止應用程式向未登入的用戶顯示我的帳號"
 
 #: src/view/com/posts/FollowingEmptyState.tsx:70
 #: src/view/com/posts/FollowingEndOfFeed.tsx:71
